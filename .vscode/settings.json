@@ -13,6 +13,8 @@
         "regex": "cpp",
         "*.tcc": "cpp",
         "iostream": "cpp",
-        "forward_list": "cpp"
-    }
+        "forward_list": "cpp",
+        "sstream": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
